@@ -1,6 +1,6 @@
 # k8s-dev-survival-kit-talk
 
-You can find here the slides and the sample code of my talk "Kubernetes Developer Survival Kit Talk" that I presented on IT Tage 365 at 23rd June 2022.
+You can find here the slides and the sample code of my talk "Kubernetes Developer Survival Kit Talk" that I presented on Cloudland at 2nd July 2022.
 
 The demo application  based on Java and Spring Boot is in folder 'sample-app'.
 
