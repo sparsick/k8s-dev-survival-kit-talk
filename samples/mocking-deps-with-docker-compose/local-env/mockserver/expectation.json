@@ -1,0 +1,18 @@
+[
+  {
+    "httpRequest": {
+      "path": "/sucess"
+    },
+    "httpResponse": {
+      "body": "Sucessful!"
+    }
+  },
+  {
+    "httpRequest": {
+      "path": "/fail"
+    },
+    "httpResponse": {
+      "statusCode": 400
+    }
+  }
+]

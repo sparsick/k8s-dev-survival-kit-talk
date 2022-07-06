@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  mockserver:
+    image: mockserver/mockserver:latest
+    restart: always
+    ports:
+      - 1080:1080
+    environment:
+      MOCKSERVER_INITIALIZATION_JSON_PATH: /config/expectation.json
+    volumes:
+      - ./local-env/mockserver:/config
