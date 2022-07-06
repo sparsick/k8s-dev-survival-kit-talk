@@ -1,10 +1,10 @@
 [
   {
     "httpRequest": {
-      "path": "/sucess"
+      "path": "/success"
     },
     "httpResponse": {
-      "body": "Sucessful!"
+      "body": "Successful!"
     }
   },
   {
