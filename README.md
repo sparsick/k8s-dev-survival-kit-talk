@@ -1,8 +1,8 @@
 # k8s-dev-survival-kit-talk
 
-You can find here the slides and the sample code of my talk "Kubernetes Developer Survival Kit Talk" that I presented on Java Forum Stuttgart at 7th July 2022.
+You can find here the slides and the sample code of my talk "Kubernetes Developer Survival Kit Talk" that I presented on Software Architecture Morning at 4th August 2022.
 
-The demo application  based on Java and Spring Boot is in folder 'sample-app'.
+The demo application based on Java and Spring Boot is in folder 'sample-app'.
 
 Furthermore, there exists an sample how to mock dependeted systems for the local development with Mockserver.
 
