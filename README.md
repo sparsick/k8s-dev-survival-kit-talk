@@ -1,6 +1,6 @@
 # k8s-dev-survival-kit-talk
 
-You can find here the slides and the sample code of my talk "Kubernetes Developer Survival Kit Talk" that I presented on Software Architecture Alliance at 12nd October 2022.
+You can find here the slides and the sample code of my talk "Kubernetes Developer Survival Kit Talk" that I presented on JUG CH at 8th November 2022.
 
 The demo application based on Java and Spring Boot is in folder 'sample-app'.
 
