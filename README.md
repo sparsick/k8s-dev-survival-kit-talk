@@ -1,6 +1,6 @@
 # k8s-dev-survival-kit-talk
 
-You can find here the slides and the sample code of my talk "Kubernetes Developer Survival Kit Talk" that I presented on JChampionConf at 20th January 2023.
+You can find here the slides and the sample code of my talk "Kubernetes Developer Survival Kit Talk" that I presented on OOP Digital 2023 at 9th February 2023.
 
 The demo application based on Java and Spring Boot is in folder 'sample-app'.
 
