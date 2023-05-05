@@ -1,6 +1,6 @@
 # k8s-dev-survival-kit-talk
 
-You can find here the slides and the sample code of my talk "Kubernetes Developer Survival Kit Talk" that I presented on IT Tage 365 at 26th April 2023.
+You can find here the slides and the sample code of my talk "Kubernetes Developer Survival Kit Talk" that I presented on MATHEMA Campus at 6th May 2023.
 
 The demo application based on Java and Spring Boot is in folder 'sample-app'.
 
@@ -18,7 +18,8 @@ Furthermore, there exists an sample how to mock dependeted systems for the local
 - [Spring Boot Maven Plugin](https://docs.spring.io/spring-boot/docs/current/maven-plugin/reference/htmlsingle/)
 - [Minikube](https://minikube.sigs.k8s.io/docs/)
 - [K9s](https://k9scli.io/)
-- [K8s Lens](https://k8slens.dev/)
+- [K8s Lens](https://k8slens.dev/) / [OpenLens](https://github.com/MuhammedKalkan/OpenLens)
+- [Monokle Desktop](https://monokle.io/desktop)
 - [Mockserver](https://www.mock-server.com)
 
 ## Further Information
@@ -32,3 +33,5 @@ Furthermore, there exists an sample how to mock dependeted systems for the local
 - [What's going on in my cluster? by Matthias Haeussler](https://speakerdeck.com/maeddes/whats-going-on-in-my-cluster)
 - [Wenn ich das nur vorher gewusst hätte: Kubernetes für Entwickler by Stefan Schlott (German)](https://entwicklertag.de/karlsruhe/2022/Wenn_ich_das_nur_vorher_gewusst_haette-_Kubernetes_fuer_Entwickler/Kubernetes%20f%C3%BCr%20Entwickler.pdf)
 - Kubernetes-Lektionen aus der Wolke by Jochen Mader
+- [We Moved one Java Product to Kubernetes and This Is What We Learned by Carlos Sanchez](https://vimeo.com/747698681)
+- [Secrets of Performance Tuning Java on Kubernetes by Bruno Borges](https://vimeo.com/748031919)
