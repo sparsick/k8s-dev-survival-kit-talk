@@ -1,10 +1,10 @@
 # k8s-dev-survival-kit-talk
 
-You can find here the slides and the sample code of my talk "Kubernetes Developer Survival Kit Talk" that I presented on MATHEMA Campus at 6th May 2023.
+You can find here the slides and the sample code of my talk "Kubernetes Developer Survival Kit Talk" that I presented on JAX in Mainz at 10th May 2023.
 
 The demo application based on Java and Spring Boot is in folder 'sample-app'.
 
-Furthermore, there exists an sample how to mock dependeted systems for the local development with Mockserver.
+Furthermore, there exists an sample how to mock dependet systems for the local development with Mockserver.
 
 
 ## Tools, that are shown in the presentation
