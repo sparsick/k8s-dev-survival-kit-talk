@@ -1,6 +1,6 @@
 # k8s-dev-survival-kit-talk
 
-You can find here the slides and the sample code of my talk "Kubernetes Developer Survival Kit Talk" that I presented on JAX in Mainz at 10th May 2023.
+You can find here the slides and the sample code of my talk "Kubernetes Developer Survival Kit Talk" that I presented on JUG Schweiz in Basel at 12th June 2023 and in St. Gallen at 16th June 2023.
 
 The demo application based on Java and Spring Boot is in folder 'sample-app'.
 
@@ -16,6 +16,7 @@ Furthermore, there exists an sample how to mock dependet systems for the local d
 - [Helm Secret Plugin](https://github.com/jkroepke/helm-secrets)
 - [Docker Compose](https://docs.docker.com/compose/)
 - [Spring Boot Maven Plugin](https://docs.spring.io/spring-boot/docs/current/maven-plugin/reference/htmlsingle/)
+- [Spring Boot Docker Compose Support](https://docs.spring.io/spring-boot/docs/3.1.0/reference/html/features.html#features.docker-compose)
 - [Minikube](https://minikube.sigs.k8s.io/docs/)
 - [K9s](https://k9scli.io/)
 - [K8s Lens](https://k8slens.dev/) / [OpenLens](https://github.com/MuhammedKalkan/OpenLens)
