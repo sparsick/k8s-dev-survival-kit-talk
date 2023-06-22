@@ -1,27 +1,30 @@
 # k8s-dev-survival-kit-talk
 
-You can find here the slides and the sample code of my talk "Kubernetes Developer Survival Kit Talk" that I presented on JCon Europe in Cologne at 20th June 2023.
+You can find here the slides and the sample code of my talk "Kubernetes Developer Survival Kit Talk" that I presented on enterJS in Darmstad at 22nd June 2023.
 
 The demo application based on Java and Spring Boot is in folder 'sample-app'.
+A second demo application based on NodeJS and ExpressJs is in the folder 'sample-js-app'
 
 Furthermore, there exists an sample how to mock dependet systems for the local development with Mockserver.
 
 
 ## Tools, that are shown in the presentation
 - [Docker CE](https://docs.docker.com/get-started/overview/)
-- [Docker Maven Plugin](https://dmp.fabric8.io/)
 - [Helm Charts](https://helm.sh/)
-- [Helm Maven Plugin](https://github.com/kokuwaio/helm-maven-plugin)
 - [Trivy](https://aquasecurity.github.io/trivy/)
 - [Helm Secret Plugin](https://github.com/jkroepke/helm-secrets)
 - [Docker Compose](https://docs.docker.com/compose/)
-- [Spring Boot Maven Plugin](https://docs.spring.io/spring-boot/docs/current/maven-plugin/reference/htmlsingle/)
-- [Spring Boot Docker Compose Support](https://docs.spring.io/spring-boot/docs/3.1.0/reference/html/features.html#features.docker-compose)
 - [Minikube](https://minikube.sigs.k8s.io/docs/)
 - [K9s](https://k9scli.io/)
 - [K8s Lens](https://k8slens.dev/) / [OpenLens](https://github.com/MuhammedKalkan/OpenLens)
 - [Monokle Desktop](https://monokle.io/desktop)
 - [Mockserver](https://www.mock-server.com)
+
+## Tools, that are Java ecosystem specific
+- [Docker Maven Plugin](https://dmp.fabric8.io/)
+- [Helm Maven Plugin](https://github.com/kokuwaio/helm-maven-plugin)
+- [Spring Boot Maven Plugin](https://docs.spring.io/spring-boot/docs/current/maven-plugin/reference/htmlsingle/)
+- [Spring Boot Docker Compose Support](https://docs.spring.io/spring-boot/docs/3.1.0/reference/html/features.html#features.docker-compose)
 
 ## Further Information
 - [12 Factor App](https://12factor.net/)

@@ -1,3 +1,6 @@
 [submodule "sample-app"]
 	path = sample-app
 	url = git@github.com:sparsick/spring-boot-demo.git
+[submodule "sample-js-demo"]
+	path = sample-js-demo
+	url = git@github.com:sparsick/expressjs-demo.git
