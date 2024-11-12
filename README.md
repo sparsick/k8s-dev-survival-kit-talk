@@ -1,11 +1,11 @@
 # k8s-dev-survival-kit-talk
 
-You can find here the slides and the sample code of my talk "Kubernetes Developer Survival Kit Talk" that I presented on enterJS in Darmstad at 22nd June 2023.
+You can find here the slides and the sample code of my talk "Kubernetes Developer Survival Kit Talk" that I presented on Continuous Lifecycle in Mannheim at 13rd November 2024.
 
 The demo application based on Java and Spring Boot is in folder 'sample-app'.
 A second demo application based on NodeJS and ExpressJs is in the folder 'sample-js-app'
 
-Furthermore, there exists an sample how to mock dependet systems for the local development with Mockserver.
+Furthermore, there exists a sample how to mock depended systems for the local development with Mockserver.
 
 
 ## Tools, that are shown in the presentation
@@ -16,7 +16,6 @@ Furthermore, there exists an sample how to mock dependet systems for the local d
 - [Docker Compose](https://docs.docker.com/compose/)
 - [Minikube](https://minikube.sigs.k8s.io/docs/)
 - [K9s](https://k9scli.io/)
-- [K8s Lens](https://k8slens.dev/) / [OpenLens](https://github.com/MuhammedKalkan/OpenLens)
 - [Monokle Desktop](https://monokle.io/desktop)
 - [Mockserver](https://www.mock-server.com)
 
